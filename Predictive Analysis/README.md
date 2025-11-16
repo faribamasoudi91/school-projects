@@ -22,7 +22,7 @@ The **raw dataset is NOT uploaded** because:
 
 You can download the original dataset here:
 Harvard Dataverse – “Lights in the Shadows of Public Procurement”
-(Czibik, Agnes, Mih&aacute;ly Fazekas, Monika Bauhr, and Jenny de Fine Licht. 2019. “Replication Data for: Lights on the Shadows of Public Procurement - Transparency as an Antidote to Corruption.” Harvard Dataverse. https://doi.org/10.7910/DVN/IEYEZB.)
+(Czibik, Agnes, Mih&aacute; ly Fazekas, Monika Bauhr, and Jenny de Fine Licht. 2019. “Replication Data for: Lights on the Shadows of Public Procurement - Transparency as an Antidote to Corruption.” Harvard Dataverse. https://doi.org/10.7910/DVN/IEYEZB.)
 
 ## Notes
 This repository only contains:
